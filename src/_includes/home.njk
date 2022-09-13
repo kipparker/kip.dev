@@ -1,43 +1,12 @@
 ---
+layout: main.njk
 jobtitle: web developer
 description: Kip Parker is a web development consultant. He can lead teams, add capabilities to an existing team, or design and build a project from a concept to launch.
 ---
-
-
-<!doctype html>
-<html class="no-js" lang="">
-
-<head>
-    <meta charset="utf-8">
-    <title>Kip Parker, {{jobtitle}}</title>
-    <meta name="description" content="{{ description }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <meta property="og:title" content="Kip Parker, {{jobtitle}}">
-
-    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
-    <link rel="manifest" href="favicon/site.webmanifest">
-    <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#00da00">
-    <link rel="shortcut icon" href="favicon/favicon.ico">
-    <meta name="msapplication-TileColor" content="#00a300">
-    <meta name="msapplication-config" content="favicon/browserconfig.xml">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" href="/css/normalize.css">
-    <link rel="stylesheet" href="/css/main.css">
-    <meta name="theme-color" content="#fafafa">
-</head>
-
-<body>
-    <div>
-        <header>
-            <h1><span class='red-normal'>Kip Parker,</span> <br><span class='cyan-normal'>{{jobtitle}}.</span></h1>
-        </header>
-        <main>
-            {{content | safe}}
-        </main>
-    </div>
-</body>
-
-</html>
+<nav><a href="/">en</a> | <a href="/fr">fr</a></nav>
+<header>
+    <h1>Kip Parker,<br>{{jobtitle}}.</h1>
+</header>
+<main>
+    {{content | safe}}
+</main>
