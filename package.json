@@ -1,0 +1,26 @@
+{
+  "name": "kipparker-plain",
+  "version": "1.0.0",
+  "description": "A single HTML page deployed to kip.dev",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "eleventy --watch --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kipparker/kip.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kipparker/kip.dev/issues"
+  },
+  "homepage": "https://github.com/kipparker/kip.dev#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
