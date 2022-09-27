@@ -4,7 +4,7 @@ jobtitle: développeur web
 ---
 ## Qui?
 
-Je suis Kip, développeur web indépendant. Je crée des plateformes de web et autres choses digitales pour une liste de clients très variée. Pendant une carrière de vingt ans j’ai eu la chance de travailler sur beaucoup de genres de projets, des sites de commerce électronique aux plateformes de streaming en passant par la co-fondation et la construction d'un site de rencontre. Plus récemment, j'ai travaillé avec des équipes de science des données pour créer des produits de données à partir de leur travail.
+Je suis Kip, un développeur web indépendant. Je crée des plateformes de web et autres choses digitales pour une liste de clients très variée. Pendant une carrière de vingt ans j’ai eu la chance de travailler sur beaucoup de genres de projets, des sites de commerce électronique aux plateformes de streaming en passant par la co-fondation et la construction d'un site de rencontre. Plus récemment, j'ai travaillé avec des équipes de science des données pour créer des produits de données à partir de leur travail.
 
 ## Quoi?
 
