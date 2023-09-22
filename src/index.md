@@ -9,18 +9,9 @@ I'm Kip, I'm an independent web developer. I build web platforms and other digit
 ## What?
 
 I work as a consultant or a freelancer. I can lead teams, add capabilities to an existing team, or design
-                and build a project from a concept to launch. I work right across the web stack, from infrastructure to
-                front end, which gives me a detailed overview of any project. I'm good at sharing knowledge, and explaining new technology to
-                others whatever their background.
-
-I choose whatever tool is best for the job, but most often my projects use python alongside a modern js framework, with serverless deployments via ci/cd using infrastructure as code. 
-
-
-Working with others. Make a new team if you need it. 
-
-Experience across the stack, from architecture and infrastructure to front end. Gives me an overview of any project. I can see the big picture and the details. I know when to do a quick fix, and when you need to build for the future.
-
-
+and build a project from a concept to launch. I work right across the web stack, from infrastructure to
+front end, which gives me a detailed overview of any project. I'm good at sharing knowledge, and explaining new technology to
+others whatever their background.
 
 I find simple ways to do complex things.
 
