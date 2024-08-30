@@ -7,3 +7,7 @@ A single HTML page deployed to kip.dev
 ```bash
 npm start
 ```
+
+## Deployment
+
+Deployment is via netlify and should run automatically on push to the main branch.
