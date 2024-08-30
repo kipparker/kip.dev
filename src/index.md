@@ -7,7 +7,7 @@ title: web developer
 
 I'm Kip, an independent software developer with over twenty years of experience building web platforms and digital products for a diverse range of clients. My projects have ranged from e-commerce and streaming platforms to co-founding a startup dating app.
 
-For the past several years, I've focused on creating and deploying data and machine learning-driven platforms, working closely with data science teams in various industries. I'm now using that expertise to concentrate on climate change and net-zero initiatives.
+For many years I focused on creating and deploying data and machine learning-driven platforms, working as a consultant with data science teams in industry. I'm now using that expertise to concentrate on climate change and net-zero initiatives.
 
 ### What?
 
